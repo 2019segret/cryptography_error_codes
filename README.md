@@ -4,7 +4,9 @@
 
 Using two different methods (Hamming and BCH) to correct potential transmitted errors on images. 
 
-The results can be seen in the results directory. 
+See an example of obstructed data and corrected on Gandalf:
+
+![Gandalfs](Results/Double2.png)
 
 I used a gandalf picture in which I introduced random errors which were then detected and corrected by both BCH and Hamming algorithms. 
 
