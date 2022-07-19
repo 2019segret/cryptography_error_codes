@@ -1,4 +1,6 @@
-# Error correcting codes for Images
+# Error correcting codes for Images (Sophomore undergrad project)
+
+### This is an old repo that is probably outdated 
 
 Using two different methods (Hamming and BCH) to correct potential transmitted errors on images. 
 
